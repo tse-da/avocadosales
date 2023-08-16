@@ -12,6 +12,7 @@ Each row is described by the following columns:
 --- | ---
 *Date* | The date of the observation
 *AveragePrice* | the average price of a single avocado
+*Total Volume* | Total number of avocados sold
 *4046* | Total number of avocados with Price Look Up Code (PLU) 4046 sold
 *4225* | Total number of avocados with PLU 4225 sold
 *4770* | Total number of avocados with PLU 4770 sold
